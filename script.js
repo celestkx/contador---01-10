@@ -43,7 +43,6 @@ while (contador > 0) {
 
     //Inicia a contagem
     let contador = numeroInicial;
-    
     //Inicia a contagem crescente de dois em dois até 10
     while (contador <= 10){
         console.log(contador);
